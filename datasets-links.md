@@ -1,5 +1,5 @@
-[dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[kaggle tmdb dataset link here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
-[credits](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+[only credits dataset link here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
 
-[movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+[only movies dataset link here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
