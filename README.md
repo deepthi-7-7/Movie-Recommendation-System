@@ -64,7 +64,7 @@ To use the Content-Based Movie Recommendation system:
    streamlit run app.py
    ```
 
-5. Access the Movie Recommendation system through the web browser at "[http://localhost:8501]".
+5. Access the Movie Recommendation system through the web browser at "[here]""(http://localhost:8501)".
 
 6. Select a movie from the dropdown list and click the "recommend" button to get the recommended movies.
 
